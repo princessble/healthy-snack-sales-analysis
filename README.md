@@ -4,7 +4,7 @@
 
 This project analyses sales data for a fictional healthy snack business called Derehoboth Healthy Snack Bar. The goal is to understand product performance, revenue, profit, customer behaviour, and location-based sales trends.
 
-The project uses Python, pandas, SQL, and data visualisation to turn raw sales data into useful business insights.
+The project uses Python, pandas, SQL, SQLite, and data visualisation to turn raw sales data into useful business insights.
 
 ## Problem Statement
 
@@ -32,34 +32,7 @@ healthy-snack-sales-analysis/
 ├── README.md
 ├── business_insights.md
 └── requirements.txt
-
-
-## How to Run This Project
-
-1. Install the required libraries:
-
-pip install -r requirements.txt
-
-2. Clean the data
-python scripts/01_clean_data.py
-
-3. Run the Analysis
-python scripts/02_analyse_data.py
-
-
-
-
-## Step 7: Final check
-
-When you finish, the top level of your repository should show only:
-
-```text
-data
-outputs
-scripts
-README.md
-business_insights.md
-requirements.txt
+```
 
 ## Tools Used
 
@@ -75,6 +48,32 @@ requirements.txt
 ## Dataset
 
 The dataset used in this project is a fictional sample dataset created for learning and portfolio purposes. It contains sales records for healthy snack products such as kale chips, sweet potato chips, beetroot chips, carrot chips, and peanut snacks.
+
+## How to Run This Project
+
+1. Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+2. Clean the data:
+
+```bash
+python scripts/01_clean_data.py
+```
+
+3. Run the Python sales analysis:
+
+```bash
+python scripts/02_analyse_data.py
+```
+
+4. Run the SQL analysis:
+
+```bash
+python scripts/03_sql_analysis.py
+```
 
 ## Project Process
 
@@ -99,19 +98,21 @@ The dataset used in this project is a fictional sample dataset created for learn
 
 ## Key Insights
 
-- The analysis identified the strongest-performing products by quantity, revenue, and profit.
-- The project showed which location generated the highest sales.
-- The customer type analysis helped identify the most valuable customer segment.
-- The results can help the business make better decisions about marketing, production, and sales planning.
+- Peanut Snack had the highest quantity sold.
+- Kale Chips generated the highest revenue.
+- Kale Chips also generated the highest profit.
+- Dublin was the strongest sales location.
+- Individual customers generated the highest revenue.
 
 ## Business Recommendations
 
 Based on the analysis, the business should:
 
-- Increase production of the best-performing product.
-- Focus marketing efforts on the highest-revenue location.
-- Build stronger relationships with the most valuable customer type.
-- Continue tracking monthly sales to understand demand patterns.
+- Continue producing Peanut Snack because it had the highest quantity sold.
+- Prioritise Kale Chips because it generated the highest revenue and profit.
+- Focus more marketing efforts in Dublin because it was the strongest sales location.
+- Create offers for individual customers because they generated the highest revenue.
+- Track monthly sales regularly to understand customer demand and seasonal trends.
 
 ## What I Learned
 
