@@ -10,6 +10,57 @@ The project uses Python, pandas, SQL, and data visualisation to turn raw sales d
 
 Derehoboth Healthy Snack Bar wants to understand which products are performing best, which locations generate the most revenue, and which customer types are most valuable. The business also wants to make data-driven decisions about production, marketing, and sales strategy.
 
+## Project Structure
+
+```text
+healthy-snack-sales-analysis/
+│
+├── data/
+│   └── healthy_snack_sales.csv
+│
+├── scripts/
+│   ├── 01_clean_data.py
+│   ├── 02_analyse_data.py
+│   └── 03_sql_analysis.py
+│
+├── outputs/
+│   ├── cleaned_sales_data.csv
+│   ├── healthy_snack_sales.db
+│   ├── revenue_by_product.png
+│   └── sales_summary.txt
+│
+├── README.md
+├── business_insights.md
+└── requirements.txt
+
+
+## How to Run This Project
+
+1. Install the required libraries:
+
+pip install -r requirements.txt
+
+2. Clean the data
+python scripts/01_clean_data.py
+
+3. Run the Analysis
+python scripts/02_analyse_data.py
+
+
+
+
+## Step 7: Final check
+
+When you finish, the top level of your repository should show only:
+
+```text
+data
+outputs
+scripts
+README.md
+business_insights.md
+requirements.txt
+
 ## Tools Used
 
 - Python
