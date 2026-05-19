@@ -1,7 +1,7 @@
 HEALTHY SNACK SALES ANALYSIS
 ----------------------------
-Total Revenue: €425.00
-Total Profit: €253.40
+Total Revenue: â‚¬425.00
+Total Profit: â‚¬253.40
 Total Quantity Sold: 120
 
 Quantity Sold by Product:
