@@ -1,0 +1,21 @@
+Order_ID,Date,Product,Category,Quantity,Unit_Price,Cost_Per_Unit,Customer_Type,Location,Payment_Method
+1,2026-01-05,Kale Chips,Vegetable Chips,3,4.50,2.00,Individual,Dublin,Card
+2,2026-01-08,Sweet Potato Chips,Vegetable Chips,5,3.80,1.50,Individual,Cork,Cash
+3,2026-01-12,Beetroot Chips,Vegetable Chips,2,4.20,1.80,Wellness Store,Galway,Card
+4,2026-01-15,Carrot Chips,Vegetable Chips,4,3.50,1.20,Individual,Dublin,Card
+5,2026-01-20,Peanut Snack,Protein Snack,6,2.50,1.00,Supermarket,Limerick,Transfer
+6,2026-02-03,Kale Chips,Vegetable Chips,7,4.50,2.00,Wellness Store,Dublin,Transfer
+7,2026-02-10,Sweet Potato Chips,Vegetable Chips,4,3.80,1.50,Individual,Waterford,Card
+8,2026-02-14,Beetroot Chips,Vegetable Chips,3,4.20,1.80,Individual,Cork,Cash
+9,2026-02-18,Carrot Chips,Vegetable Chips,5,3.50,1.20,Supermarket,Dublin,Transfer
+10,2026-02-24,Peanut Snack,Protein Snack,8,2.50,1.00,Individual,Galway,Card
+11,2026-03-02,Kale Chips,Vegetable Chips,6,4.50,2.00,Supermarket,Dublin,Card
+12,2026-03-06,Sweet Potato Chips,Vegetable Chips,9,3.80,1.50,Wellness Store,Limerick,Transfer
+13,2026-03-11,Beetroot Chips,Vegetable Chips,4,4.20,1.80,Individual,Dublin,Card
+14,2026-03-17,Carrot Chips,Vegetable Chips,7,3.50,1.20,Individual,Cork,Cash
+15,2026-03-22,Peanut Snack,Protein Snack,10,2.50,1.00,Supermarket,Dublin,Transfer
+16,2026-04-04,Kale Chips,Vegetable Chips,8,4.50,2.00,Individual,Galway,Card
+17,2026-04-09,Sweet Potato Chips,Vegetable Chips,6,3.80,1.50,Supermarket,Dublin,Transfer
+18,2026-04-13,Beetroot Chips,Vegetable Chips,5,4.20,1.80,Wellness Store,Cork,Card
+19,2026-04-19,Carrot Chips,Vegetable Chips,6,3.50,1.20,Individual,Waterford,Cash
+20,2026-04-25,Peanut Snack,Protein Snack,12,2.50,1.00,Wellness Store,Dublin,Transfer

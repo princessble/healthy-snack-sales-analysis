@@ -1,0 +1,50 @@
+HEALTHY SNACK SALES ANALYSIS
+----------------------------
+Total Revenue: €425.00
+Total Profit: €253.40
+Total Quantity Sold: 120
+
+Quantity Sold by Product:
+Product
+Peanut Snack          36
+Sweet Potato Chips    24
+Kale Chips            24
+Carrot Chips          22
+Beetroot Chips        14
+
+Revenue by Product:
+Product
+Kale Chips            108.0
+Sweet Potato Chips     91.2
+Peanut Snack           90.0
+Carrot Chips           77.0
+Beetroot Chips         58.8
+
+Profit by Product:
+Product
+Kale Chips            60.0
+Sweet Potato Chips    55.2
+Peanut Snack          54.0
+Carrot Chips          50.6
+Beetroot Chips        33.6
+
+Revenue by Location:
+Location
+Dublin       198.1
+Cork          77.1
+Galway        64.4
+Limerick      49.2
+Waterford     36.2
+
+Revenue by Customer Type:
+Customer_Type
+Individual        192.6
+Wellness Store    125.1
+Supermarket       107.3
+
+Revenue by Month:
+Month
+April       130.8
+March       127.5
+February     96.8
+January      69.9
